@@ -101,6 +101,6 @@ Key fields include:
 ---
 
 ## 📸 Dashboard Preview
-Images of the dashboard pages has been added as pdf to this repository.
+<img width="696" height="410" alt="image" src="https://github.com/user-attachments/assets/a197acbb-6475-4eb3-88bc-0436b935bdcb" />
 
  
